@@ -645,7 +645,7 @@ section {
 }
 
 .get-started .php-email-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: #3490de;
 }
 
 @keyframes animate-loading {
@@ -1732,7 +1732,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: #3490de;
 }
 
 @keyframes animate-loading {
@@ -2333,7 +2333,7 @@ section {
 }
 
 .blog .sidebar .search-form form button:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: #3490de;
 }
 
 .blog .sidebar .categories ul {
